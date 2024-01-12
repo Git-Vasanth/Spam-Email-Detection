@@ -1,4 +1,4 @@
-# Spam Email?Message Detection
+# Spam/Email Message Detection 
 
 **Problem Statement:**
 
