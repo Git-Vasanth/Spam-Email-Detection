@@ -6,8 +6,8 @@ In today's digital age, individuals and organizations face an increasing threat 
 
 #### Steps
 
-**Data Extraction and Cleaning**
-**Text Processing and Labeling**
+* **Data Extraction and Cleaning**
+* **Text Processing and Labeling**
 **EDA - Exploratory Data Analysis**
 **Data Visualization**
 **Data Preprocessing**
