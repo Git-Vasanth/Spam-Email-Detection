@@ -20,4 +20,9 @@ The model Building was made with **Multinomial Naive Bayes Algorithm**
 
 ![download](https://github.com/campusx-official/sms-spam-classifier/assets/59464869/e6d25f88-86ce-4d80-8688-cfad4bf7c7e4)
 
+* **Use case**
+
+  ![Screenshot (5196)](https://github.com/campusx-official/sms-spam-classifier/assets/59464869/a936f7b9-a76c-4374-b9bc-7f25162fdaab)
+
+
 
